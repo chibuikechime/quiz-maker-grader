@@ -51,4 +51,9 @@ run_quiz()
 - Useful for learning and teaching
 - Extendable with more questions and features
 
+👤 Author
+This project was developed by Chibuike Chime.
+If you have any feedback, ideas, or questions, feel free to reach out or contribute!
+#RITAAfricaBootcamp #Python
+
 Enjoy learning Python through quizzes!

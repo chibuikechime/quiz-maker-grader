@@ -51,12 +51,10 @@ run_quiz()
 - Useful for learning and teaching
 - Extendable with more questions and features
 
-<<<<<<< HEAD
 =======
 ## 👤 Author
 This project was developed by Chibuike Chime.
 If you have any feedback, ideas, or questions, feel free to reach out or contribute!
 #RITAAfricaBootcamp #Python
 
->>>>>>> 96c6f0fe4121a1545b8a4b7594d957791bd0284b
 Enjoy learning Python through quizzes!
